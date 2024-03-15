@@ -1,0 +1,9 @@
+body {
+    font-family: 'Source Code Pro';
+    font-weight: bold;
+    margin: 0 auto;
+    width: 600px;
+}
+ h1 {
+    text-align: center;
+ }
