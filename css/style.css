@@ -3,6 +3,7 @@ body {
     font-weight: bold;
     margin: 0 auto;
     width: 600px;
+    scroll-behavior: smooth;
 }
  h1 {
     text-align: center;
